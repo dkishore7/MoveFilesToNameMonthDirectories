@@ -12,7 +12,7 @@ What does it do:
   Moves each file into the respective targeted_dir
 
 Example:
-      C:\>python MoveFilesToDirectories.py "<path for the folder>"
+      C:\>python MoveFilesToDirectories.py " < path for the folder > "
       
       Output
       
